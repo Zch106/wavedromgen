@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+out/
+
+# local dev artifacts
+compare.html
+*.log
+
+# assistant workspace (local notes, downloaded packages) - not part of the project
+.workbuddy/
+
+# personal launcher with machine-specific paths
+start-dev.bat
+
+# OS
+Thumbs.db
+.DS_Store
